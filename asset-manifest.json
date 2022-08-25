@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.2af06b79.chunk.css",
-    "main.js": "/static/js/main.2d7a8460.chunk.js",
-    "main.js.map": "/static/js/main.2d7a8460.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a573cb0e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a573cb0e.js.map",
-    "static/js/2.4d40128f.chunk.js": "/static/js/2.4d40128f.chunk.js",
-    "static/js/2.4d40128f.chunk.js.map": "/static/js/2.4d40128f.chunk.js.map",
-    "static/js/3.08659ecd.chunk.js": "/static/js/3.08659ecd.chunk.js",
-    "static/js/3.08659ecd.chunk.js.map": "/static/js/3.08659ecd.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2af06b79.chunk.css.map": "/static/css/main.2af06b79.chunk.css.map",
-    "static/js/2.4d40128f.chunk.js.LICENSE.txt": "/static/js/2.4d40128f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/FirebaseTodoApp/static/css/main.2af06b79.chunk.css",
+    "main.js": "/FirebaseTodoApp/static/js/main.2d7a8460.chunk.js",
+    "main.js.map": "/FirebaseTodoApp/static/js/main.2d7a8460.chunk.js.map",
+    "runtime-main.js": "/FirebaseTodoApp/static/js/runtime-main.9cf1bf26.js",
+    "runtime-main.js.map": "/FirebaseTodoApp/static/js/runtime-main.9cf1bf26.js.map",
+    "static/js/2.47d1daa7.chunk.js": "/FirebaseTodoApp/static/js/2.47d1daa7.chunk.js",
+    "static/js/2.47d1daa7.chunk.js.map": "/FirebaseTodoApp/static/js/2.47d1daa7.chunk.js.map",
+    "static/js/3.08659ecd.chunk.js": "/FirebaseTodoApp/static/js/3.08659ecd.chunk.js",
+    "static/js/3.08659ecd.chunk.js.map": "/FirebaseTodoApp/static/js/3.08659ecd.chunk.js.map",
+    "index.html": "/FirebaseTodoApp/index.html",
+    "static/css/main.2af06b79.chunk.css.map": "/FirebaseTodoApp/static/css/main.2af06b79.chunk.css.map",
+    "static/js/2.47d1daa7.chunk.js.LICENSE.txt": "/FirebaseTodoApp/static/js/2.47d1daa7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FirebaseTodoApp/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a573cb0e.js",
-    "static/js/2.4d40128f.chunk.js",
+    "static/js/runtime-main.9cf1bf26.js",
+    "static/js/2.47d1daa7.chunk.js",
     "static/css/main.2af06b79.chunk.css",
     "static/js/main.2d7a8460.chunk.js"
   ]
